@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{87105946-A587-4BDA-8113-43F925D1086B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductController.cs">
+    <Files>
+      <File FileName="Views/Product/Index.cshtml" Line="31" Column="63" />
+      <File FileName="Controllers/ProductController.cs" Line="25" Column="98" />
+      <File FileName="wwwroot/js/script.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FrontToBack" expanded="True">
+            <Node name="FrontToBack" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="FrontToBack" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FrontToBack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
