@@ -18,6 +18,7 @@ namespace FrontToBack.DAL
 
         public DbSet<Product> Products { get; set; }
 
+        public DbSet<Bio> Bios { get; set; } 
     }
 }
  

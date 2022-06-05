@@ -100,3 +100,6 @@
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/FrontToBack.dll
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/FrontToBack.pdb
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/FrontToBack.genruntimeconfig.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Products/Default.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ProductPartial.cshtml.g.cs

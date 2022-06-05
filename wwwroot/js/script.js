@@ -2,16 +2,21 @@ $(document).ready(function () {
 
     //PARTIAL VIEW
     let skip = 8;
+    let productCount = $("#product-count").val( )
     $(document).on('click', '#load-more', function () {
         $.ajax({
             method: "get",
-            url: "product/loadmore/skip="+skip ,
+            url: "product/loadmore?skip="+skip,
             success: function (res) {
-                console.log(res);
-            }
-        })
+                skip+=8;
+                $("#listProduct").append(res);
+                if (skip > productCount){
+                    $("#load-more").remove(); 
+                }
+            } 
+        }) 
     })
-
+ 
     // HEADER
 
     $(document).on('click', '#search', function () {

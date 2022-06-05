@@ -6,7 +6,8 @@
 
 <section id="products">
     <div class="container">
-        <div class="row">
+        <input type="hidden" value="@ViewBag.ProductCount" id="product-count"/> 
+        <div class="row" id="listProduct">
             @foreach (var item in Model)
             {
                 <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
@@ -14,7 +15,7 @@
                         <div class="img">
                             <a href="">
                                 <img src="~/img/@item.ImageUrl" class="img-fluid" alt="">
-                            </a>
+                            </a> 
                         </div>
                         <div class="title mt-3">
                             <h6>@item.Name</h6>
@@ -34,5 +35,5 @@
         </div>
     </div>
 </section>
-
+ 
 <!-- PRODUCTS END -->

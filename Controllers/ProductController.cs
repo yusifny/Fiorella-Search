@@ -7,8 +7,6 @@ using FrontToBack.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace FrontToBack.Controllers
 {
     public class ProductController : Controller
@@ -19,18 +17,17 @@ namespace FrontToBack.Controllers
         {
             _context = context;
         }
-        // GET: /<controller>/
         public IActionResult Index()
         {
+            ViewBag.ProductCount = _context.Products.Count();
             List<Product> products = _context.Products.Include(p => p.Category).Take(8).ToList();
             return View(products);
         }
 
         public IActionResult LoadMore(int skip)
         {
-            List<Product> products = _context.Products.Skip(skip).Take(8).ToList();
-            //return View();
-            return Json(products);
+            List<Product> products = _context.Products.Include(p=> p.Category).Skip(skip).Take(8).ToList();
+            return PartialView("_ProductPartial", products);
         }
     }
 }

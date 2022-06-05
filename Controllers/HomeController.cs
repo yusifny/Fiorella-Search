@@ -20,15 +20,12 @@ namespace FrontToBack.Controllers
         {
             _context = context;
         }
-        // GET: /<controller>/
         public IActionResult Index()
         {
             HomeVM homeVM = new HomeVM();
 
             homeVM.Sliders = _context.Sliders.ToList();
             homeVM.pageIntros = _context.PageIntros.FirstOrDefault();
-
-            homeVM.products = _context.Products.Include(p=> p.Category).ToList();
             homeVM.categories = _context.Categories.ToList();
 
             return View(homeVM);
