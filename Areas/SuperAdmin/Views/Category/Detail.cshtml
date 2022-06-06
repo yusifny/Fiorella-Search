@@ -1,0 +1,12 @@
+@model Category
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container">
+    <div class="row">
+        <h2>@Model.Name</h2>
+        <p>@Model.Desc</p>
+        <a class="btn btn-secondary mt-2" asp-controller="Category" asp-action="Index">Go to Back</a>
+    </div>
+</div>

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="FrontToBack@localhost" uuid="ad979778-a48c-477a-b5ce-d8b41ac032fd">
-      <driver-ref>sqlserver.jb</driver-ref>
+    <data-source source="LOCAL" name="FrontToBack@localhost" uuid="f80d825c-9825-40e6-a433-4435ba5b20c9">
+      <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
-      <jdbc-url>Server=localhost\127.0.0.1,1433;Database=FrontToBack</jdbc-url>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\127.0.0.1:1433;database=FrontToBack</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="APPROVED_DRIVER" value="sqlserver.ms" />
+      </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

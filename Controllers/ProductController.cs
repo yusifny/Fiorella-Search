@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using FrontToBack.DAL;
 using FrontToBack.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -11,7 +9,7 @@ namespace FrontToBack.Controllers
 {
     public class ProductController : Controller
     {
-        private AppDbContext _context;
+        private readonly AppDbContext _context;
 
         public ProductController(AppDbContext context)
         {
