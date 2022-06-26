@@ -75,7 +75,6 @@
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/bin/Release/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/FrontToBack.csproj.AssemblyReference.cache
-/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/FrontToBack.GeneratedMSBuildEditorConfig.editorconfig
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/FrontToBack.AssemblyInfoInputs.cache
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/FrontToBack.AssemblyInfo.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/FrontToBack.csproj.CoreCompileInputs.cache
@@ -101,7 +100,6 @@
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Views/Shared/_ProductPartial.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Views/Shared/Components/Products/Default.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
-/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/bin/Release/netcoreapp3.1/FrontToBack
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.dll
@@ -185,3 +183,9 @@
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/DeleteConfirm.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Create.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Update.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_Validation.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Index.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Create.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/bin/Release/netcoreapp3.1/FrontToBack
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/FrontToBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Release/netcoreapp3.1/Razor/Views/Slider/Index.cshtml.g.cs

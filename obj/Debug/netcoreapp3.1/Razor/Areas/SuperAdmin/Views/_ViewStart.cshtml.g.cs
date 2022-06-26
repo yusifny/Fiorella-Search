@@ -12,8 +12,15 @@ namespace FrontToBack.Areas.SuperAdmin.Views
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/Areas/SuperAdmin/Views/_ViewImports.cshtml"
+using FrontToBack.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5328dd5826ac17ebda48a9fe2becc9cc6d48233", @"/Areas/SuperAdmin/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e4d5295cc0eaa9f73fe1aef3973bfd5dda4aa2f4", @"/Areas/SuperAdmin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ee4fd1bfcaf21d65f922b979774ed1873d2994b2", @"/Areas/SuperAdmin/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_SuperAdmin_Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

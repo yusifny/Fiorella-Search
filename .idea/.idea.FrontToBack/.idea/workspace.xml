@@ -6,26 +6,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eccb277-4415-4d89-a5da-3c8d336f0fd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Category/Create.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Category/Update.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Create.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Areas/SuperAdmin/Controllers/CategoryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Controllers/CategoryController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Controllers/SliderController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Shared/_Validation.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Slider/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Slider/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/SliderController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extensions/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helpers/Helper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Slider/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Create.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/DeleteConfirm.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Detail.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Update.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_Validation.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Create.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_Validation.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Create.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Views/Slider/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/dataSources/a75cb176-a81b-4fc5-a394-2c9c535dde9f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/dataSources/a75cb176-a81b-4fc5-a394-2c9c535dde9f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FrontToBack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FrontToBack/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FrontToBack/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FrontToBack/xs/project-cache/FrontToBack-Release.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FrontToBack/xs/project-cache/FrontToBack-Release.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Category/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Category/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Category/Update.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Category/Update.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Shared/_AdminLayout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Areas/SuperAdmin/Views/Shared/_AdminLayout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Category.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontToBack.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FrontToBack.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontToBack.csproj.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/FrontToBack.csproj.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Slider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Slider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Shared/Components/Footer/Default.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Shared/Components/Footer/Default.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/FrontToBack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/FrontToBack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/FrontToBack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Dashboard/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Dashboard/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_AdminLayout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_AdminLayout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/_ViewImports.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/FrontToBack.csproj.EntityFrameworkCore.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FrontToBack.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/FrontToBack.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/FrontToBack.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.RazorCoreGenerate.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/FrontToBack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Create.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Create.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Update.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Update.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_AdminLayout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_AdminLayout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +88,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/Areas/SuperAdmin/Views/Category/DeleteConfirm.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Areas/SuperAdmin/Controllers/SliderController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Views/Product/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/83f758a14b55a26ccf64981992c81cd0551ecec62fd0ebf9216ca5d1498ad88/QueryingEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
@@ -53,22 +108,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlserver"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.FrontToBack">
     <configuration name="FrontToBack" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/FrontToBack.csproj" />
@@ -133,7 +189,17 @@
       <workItem from="1654465516165" duration="11924000" />
       <workItem from="1654537427091" duration="3937000" />
       <workItem from="1654541613225" duration="1526000" />
-      <workItem from="1654617343129" duration="17029000" />
+      <workItem from="1654617343129" duration="17543000" />
+      <workItem from="1654694193820" duration="6714000" />
+      <workItem from="1654795897194" duration="237000" />
+      <workItem from="1654806727251" duration="31000" />
+      <workItem from="1654806765394" duration="48000" />
+      <workItem from="1655420089110" duration="328000" />
+      <workItem from="1655677302328" duration="1478000" />
+      <workItem from="1656135285036" duration="49000" />
+      <workItem from="1656194673767" duration="896000" />
+      <workItem from="1656195735083" duration="10950000" />
+      <workItem from="1656207655959" duration="306000" />
     </task>
     <servers />
   </component>
@@ -184,6 +250,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">

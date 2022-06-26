@@ -182,3 +182,11 @@
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/_ViewStart.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs
 /Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Create.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/DeleteConfirm.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Detail.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Index.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Category/Update.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Shared/_Validation.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Create.cshtml.g.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/Debug/netcoreapp3.1/Razor/Areas/SuperAdmin/Views/Slider/Index.cshtml.g.cs
