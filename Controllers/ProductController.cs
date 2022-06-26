@@ -27,5 +27,11 @@ namespace FrontToBack.Controllers
             List<Product> products = _context.Products.Include(p=> p.Category).Skip(skip).Take(8).ToList();
             return PartialView("_ProductPartial", products);
         }
+        
+        public IActionResult SearchProduct(string search)
+        {
+            List<Product> products = _context.Products.Where(p => p.Name.ToLower().Contains(search.ToLower())).Take(10).ToList();
+            return PartialView("_Search",products);
+        }
     }
 }

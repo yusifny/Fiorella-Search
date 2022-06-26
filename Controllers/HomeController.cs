@@ -25,8 +25,8 @@ namespace FrontToBack.Controllers
             HomeVM homeVM = new HomeVM();
 
             homeVM.Sliders = _context.Sliders.ToList();
-            homeVM.pageIntros = _context.PageIntros.FirstOrDefault();
-            homeVM.categories = _context.Categories.ToList();
+            homeVM.PageIntros = _context.PageIntros.FirstOrDefault();
+            homeVM.Categories = _context.Categories.ToList();
 
             return View(homeVM);
         }

@@ -8,9 +8,9 @@ namespace FrontToBack.ViewModels
     { 
         public IEnumerable<Slider> Sliders { get; set; }
 
-        public PageIntro pageIntros { get; set; }
+        public PageIntro PageIntros { get; set; }
 
-        public IEnumerable<Category>  categories { get; set; }
+        public IEnumerable<Category>  Categories { get; set; }
         
     }
 }

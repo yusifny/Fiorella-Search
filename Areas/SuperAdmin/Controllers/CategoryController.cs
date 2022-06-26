@@ -109,7 +109,7 @@ namespace FrontToBack.Areas.SuperAdmin.Controllers
             dbCategory.Name = category.Name;
             dbCategory.Desc = category.Desc;
             await _context.SaveChangesAsync();
-            //TempData["message"] = dbCategory.Name + "is successfully updated";
+            //wTempData["message"] = dbCategory.Name + "is successfully updated";
             return RedirectToAction("Detail", "Category", new {@id=id});
         }
         

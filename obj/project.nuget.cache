@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7hRNdkXqWqvx3lPmi8mSx40vpSy8iX+bkG3bPCNhhQ0eGIkBSC+I9ITg0D6Ouy5Md8Pl+Rn95x3iONtdtFGrw==",
+  "dgSpecHash": "g9z1va92eNcX8IPr/H+RUOnGfgAmjDEiytQNfRREM9DJLDFqtSGdAnMoBTkj/H18QS9rhCm3LenHcodTjEw9dQ==",
   "success": true,
-  "projectFilePath": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/FrontToBack.csproj",
+  "projectFilePath": "/Users/yusifnazarbayov/Desktop/FrontToBack/FrontToBack.csproj",
   "expectedPackageFiles": [
     "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

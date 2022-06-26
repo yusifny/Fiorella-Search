@@ -8242,11 +8242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/FrontToBack.csproj",
+      "projectUniqueName": "/Users/yusifnazarbayov/Desktop/FrontToBack/FrontToBack.csproj",
       "projectName": "FrontToBack",
-      "projectPath": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/FrontToBack.csproj",
+      "projectPath": "/Users/yusifnazarbayov/Desktop/FrontToBack/FrontToBack.csproj",
       "packagesPath": "/Users/yusifnazarbayov/.nuget/packages/",
-      "outputPath": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/BackEnd/FrontToBack/obj/",
+      "outputPath": "/Users/yusifnazarbayov/Desktop/FrontToBack/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yusifnazarbayov/.nuget/NuGet/NuGet.Config"
